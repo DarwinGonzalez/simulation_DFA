@@ -1,2 +1,2 @@
-# simulation_DFA
+# Simulación DFA
 Simulación de autómatas finitos deterministas
